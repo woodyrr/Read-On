@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Read-On</string>
+    <string name="placeholder_search">Search</string>
+    <string name="paste_text_or_webLink">Paste text or web link</string>
+</resources>
