@@ -2,4 +2,8 @@
     <string name="app_name">Read-On</string>
     <string name="placeholder_search">Search</string>
     <string name="paste_text_or_webLink">Paste text or web link</string>
+    <string name="chapter_title">Schemes</string>
+    <string name="chapter_num">67</string>
+    <string name="bottom_navigation_profile">Profile</string>
+    <string name="bottom_navigation_home">Home</string>
 </resources>
