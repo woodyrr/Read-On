@@ -1,0 +1,1 @@
+An online-novel text reader. users are able to paste novel links, which will transform from text to speech.
